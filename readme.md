@@ -2,7 +2,11 @@ Revisiting Iso-Recursive Subtyping (Artifact)
 -----
 
 ## Abstract
-This bundle contains the Coq formulation associated with the paper "Revisiting Iso-Recursive Subtyping". This document explains how to run the Coq formulations. 
+This bundle contains the Coq formulation associated with the paper "Revisiting Iso-Recursive Subtyping".
+
+https://dl.acm.org/doi/10.1145/3428291 https://zenodo.org/records/4034438 https://github.com/AaronNGray/10.5281zenodo.4034438/
+
+This document explains how to run the Coq formulations. 
 
 ## Getting Started
 
